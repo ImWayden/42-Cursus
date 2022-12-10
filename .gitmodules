@@ -7,3 +7,6 @@
 [submodule "02-Get_Next_Line"]
 	path = 02-Get_Next_Line
 	url = git@github.com:ImWayden/02-Get_Next_Line.git
+[submodule "My_Libft"]
+	path = My_Libft
+	url = git@github.com:ImWayden/My_Libft.git
