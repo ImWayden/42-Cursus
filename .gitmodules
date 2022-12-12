@@ -10,3 +10,6 @@
 [submodule "My_Libft"]
 	path = My_Libft
 	url = git@github.com:ImWayden/My_Libft.git
+[submodule "03-Born2BeRoot"]
+	path = 03-Born2BeRoot
+	url = git@github.com:ImWayden/03-Born2BeRoot.git
