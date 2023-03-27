@@ -13,3 +13,6 @@
 [submodule "03-Born2BeRoot"]
 	path = 03-Born2BeRoot
 	url = git@github.com:ImWayden/03-Born2BeRoot.git
+[submodule "04-Push_Swap"]
+	path = 04-Push_Swap
+	url = git@github.com:ImWayden/04-Push_Swap.git
