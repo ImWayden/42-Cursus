@@ -16,3 +16,6 @@
 [submodule "04-Push_Swap"]
 	path = 04-Push_Swap
 	url = git@github.com:ImWayden/04-Push_Swap.git
+[submodule "05-fract-ol"]
+	path = 05-fract-ol
+	url = git@github.com:ImWayden/05-fract-ol.git
